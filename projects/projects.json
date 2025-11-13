@@ -28,5 +28,35 @@
       "view": "#",
       "code": "https://github.com/TungCorn/web-gk-2"
     }
+  },
+  {
+    "name": "Citizen Management",
+    "desc": "Citizen management in java language.",
+    "image": "citizenmanagement",
+    "category": "java",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/TungCorn/Citizen-Management"
+    }
+  },
+  {
+    "name": "Contact Hub",
+    "desc": "Contact management in react language.",
+    "image": "contacthub",
+    "category": "react",
+    "links": {
+      "view": "https://tungcorn.github.io/Contact-Hub/",
+      "code": "https://github.com/TungCorn/Contact-Hub"
+    }
+  },
+  {
+    "name": "Work Management",
+    "desc": "Work management in react language.",
+    "image": "workmanagement",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/TungCorn/Work-Management"
+    }
   }
 ]
